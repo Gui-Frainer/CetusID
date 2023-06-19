@@ -1,0 +1,57 @@
+Sousa:
+
+ ~ Post-Processing ~
+
+Acoustic Encounter 1:
+
+Number of detections: 56
+Encounter duration: 0:11:31
+Start time: 2021-03-21 18:48:24
+End time: 2021-03-21 18:59:55
+
+Proportion for each species:
+S_plumbea    0.696429
+T_aduncus    0.303571
+
+Species ID: S_plumbea
+
+               ~
+Sousa com mais tempo:
+ ~ Post-Processing ~
+
+Acoustic Encounter 1:
+
+Number of detections: 127
+Encounter duration: 0:39:13
+Start time: 2021-03-21 18:48:24
+End time: 2021-03-21 19:27:37
+
+Proportion for each species:
+S_plumbea    0.614173
+T_aduncus    0.385827
+
+Species ID: S_plumbea
+
+               ~
+
+
+Tursiops:
+
+ ~ Post-Processing ~
+
+Acoustic Encounter 1:
+
+Number of detections: 171
+Encounter duration: 0:12:48
+Start time: 2021-03-21 14:40:06
+End time: 2021-03-21 14:52:54
+
+Proportion for each species:
+T_aduncus    0.678363
+S_plumbea    0.321637
+
+Species ID: T_aduncus
+
+               ~
+
+

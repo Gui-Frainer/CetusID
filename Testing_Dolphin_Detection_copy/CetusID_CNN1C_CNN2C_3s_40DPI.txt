@@ -1,0 +1,149 @@
+ ~ Post-Processing ~
+
+Acoustic Encounter 1:
+
+Number of detections: 20
+Encounter duration: 0:00:19
+Start time: 2021-03-21 09:46:50
+End time: 2021-03-21 09:47:09
+
+Proportion for each species:
+O_orca       0.55
+S_plumbea    0.45
+
+Species ID: O_orca
+
+               ~
+Acoustic Encounter 2:
+
+Number of detections: 57
+Encounter duration: 0:01:22
+Start time: 2021-03-21 10:21:12
+End time: 2021-03-21 10:22:34
+
+Proportion for each species:
+O_orca       0.543860
+S_plumbea    0.438596
+D_delphis    0.017544
+
+Species ID: O_orca
+
+               ~
+Acoustic Encounter 3:
+
+Number of detections: 8
+Encounter duration: 0:01:03
+Start time: 2021-03-21 12:07:27
+End time: 2021-03-21 12:08:30
+
+Proportion for each species:
+S_plumbea    0.875
+D_delphis    0.125
+
+Species ID: S_plumbea
+
+               ~
+Acoustic Encounter 4:
+
+Number of detections: 137
+Encounter duration: 1:20:53
+Start time: 2021-03-21 13:27:31
+End time: 2021-03-21 14:48:24
+
+Proportion for each species:
+S_plumbea    0.941606
+O_orca       0.029197
+D_delphis    0.029197
+
+Species ID: S_plumbea
+
+               ~
+Acoustic Encounter 5:
+
+Number of detections: 11
+Encounter duration: 0:00:11
+Start time: 2021-03-21 15:32:25
+End time: 2021-03-21 15:32:36
+
+Proportion for each species:
+O_orca       0.818182
+S_plumbea    0.181818
+
+Species ID: O_orca
+
+               ~
+Acoustic Encounter 6:
+
+Number of detections: 146
+Encounter duration: 0:42:20
+Start time: 2021-03-21 18:45:15
+End time: 2021-03-21 19:27:35
+
+Proportion for each species:
+S_plumbea    0.760274
+O_orca       0.205479
+D_delphis    0.034247
+
+Species ID: S_plumbea
+
+               ~
+Acoustic Encounter 7:
+
+Number of detections: 6
+Encounter duration: 0:12:03
+Start time: 2021-03-21 20:04:35
+End time: 2021-03-21 20:16:38
+
+Proportion for each species:
+S_plumbea    0.833333
+O_orca       0.166667
+
+Species ID: S_plumbea
+
+               ~
+Acoustic Encounter 8:
+
+Number of detections: 63
+Encounter duration: 0:20:04
+Start time: 2021-03-21 20:32:56
+End time: 2021-03-21 20:53:00
+
+Proportion for each species:
+S_plumbea    0.730159
+O_orca       0.269841
+
+Species ID: S_plumbea
+
+               ~
+Acoustic Encounter 9:
+
+Number of detections: 162
+Encounter duration: 0:55:06
+Start time: 2021-03-21 21:13:25
+End time: 2021-03-21 22:08:31
+
+Proportion for each species:
+S_plumbea    0.771605
+O_orca       0.216049
+D_delphis    0.012346
+
+Species ID: S_plumbea
+
+               ~
+Acoustic Encounter 10:
+
+Number of detections: 49
+Encounter duration: 0:11:24
+Start time: 2021-03-21 22:24:45
+End time: 2021-03-21 22:36:09
+
+Proportion for each species:
+S_plumbea    0.612245
+O_orca       0.387755
+
+Species ID: S_plumbea
+
+               ~
+
+Reading done.
+Done

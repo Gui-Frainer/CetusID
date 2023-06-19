@@ -1,0 +1,294 @@
+ ~ Post-Processing ~
+
+Acoustic Encounter 1:
+
+Number of detections: 6
+Encounter duration: 0:02:21
+Start time: 2021-03-21 01:00:52
+End time: 2021-03-21 01:03:13
+
+Proportion for each species:
+T_aduncus    0.833333
+S_plumbea    0.166667
+
+Species ID: T_aduncus
+
+               ~
+Acoustic Encounter 2:
+
+Number of detections: 6
+Encounter duration: 0:01:30
+Start time: 2021-03-21 03:17:30
+End time: 2021-03-21 03:19:00
+
+Proportion for each species:
+T_aduncus    1.0
+
+Species ID: T_aduncus
+
+               ~
+Acoustic Encounter 3:
+
+Number of detections: 2
+Encounter duration: 0:00:01
+Start time: 2021-03-21 03:41:08
+End time: 2021-03-21 03:41:09
+
+Proportion for each species:
+T_aduncus    1.0
+
+Species ID: T_aduncus
+
+               ~
+Acoustic Encounter 4:
+
+Number of detections: 5
+Encounter duration: 0:18:43
+Start time: 2021-03-21 04:53:47
+End time: 2021-03-21 05:12:30
+
+Proportion for each species:
+T_aduncus    1.0
+
+Species ID: T_aduncus
+
+               ~
+Acoustic Encounter 5:
+
+Number of detections: 4
+Encounter duration: 0:14:10
+Start time: 2021-03-21 05:39:13
+End time: 2021-03-21 05:53:23
+
+Proportion for each species:
+T_aduncus    0.50
+S_plumbea    0.25
+D_delphis    0.25
+
+Species ID: T_aduncus
+
+               ~
+Acoustic Encounter 6:
+
+Number of detections: 3
+Encounter duration: 0:00:31
+Start time: 2021-03-21 06:16:55
+End time: 2021-03-21 06:17:26
+
+Proportion for each species:
+T_aduncus    1.0
+
+Species ID: T_aduncus
+
+               ~
+Acoustic Encounter 7:
+
+Number of detections: 3
+Encounter duration: 0:00:08
+Start time: 2021-03-21 06:47:10
+End time: 2021-03-21 06:47:18
+
+Proportion for each species:
+T_aduncus    1.0
+
+Species ID: T_aduncus
+
+               ~
+Acoustic Encounter 8:
+
+Number of detections: 18
+Encounter duration: 0:13:28
+Start time: 2021-03-21 09:33:41
+End time: 2021-03-21 09:47:09
+
+Proportion for each species:
+S_plumbea    0.666667
+T_aduncus    0.222222
+D_delphis    0.111111
+
+Species ID: S_plumbea
+
+               ~
+Acoustic Encounter 9:
+
+Number of detections: 46
+Encounter duration: 0:01:16
+Start time: 2021-03-21 10:20:43
+End time: 2021-03-21 10:21:59
+
+Proportion for each species:
+S_plumbea    1.0
+
+Species ID: S_plumbea
+
+               ~
+Acoustic Encounter 10:
+
+Number of detections: 2
+Encounter duration: 0:00:10
+Start time: 2021-03-21 11:51:30
+End time: 2021-03-21 11:51:40
+
+Proportion for each species:
+T_aduncus    1.0
+
+Species ID: T_aduncus
+
+               ~
+Acoustic Encounter 11:
+
+Number of detections: 14
+Encounter duration: 0:00:57
+Start time: 2021-03-21 12:07:33
+End time: 2021-03-21 12:08:30
+
+Proportion for each species:
+T_aduncus    0.642857
+S_plumbea    0.357143
+
+Species ID: T_aduncus
+
+               ~
+Acoustic Encounter 12:
+
+Number of detections: 28
+Encounter duration: 0:23:43
+Start time: 2021-03-21 12:36:30
+End time: 2021-03-21 13:00:13
+
+Proportion for each species:
+T_aduncus    0.857143
+D_delphis    0.071429
+S_plumbea    0.071429
+
+Species ID: T_aduncus
+
+               ~
+Acoustic Encounter 13:
+
+Number of detections: 749
+Encounter duration: 1:34:52
+Start time: 2021-03-21 13:28:01
+End time: 2021-03-21 15:02:53
+
+Proportion for each species:
+T_aduncus    0.985314
+D_delphis    0.009346
+S_plumbea    0.005340
+
+Species ID: T_aduncus
+
+               ~
+Acoustic Encounter 14:
+
+Number of detections: 10
+Encounter duration: 0:00:16
+Start time: 2021-03-21 15:32:20
+End time: 2021-03-21 15:32:36
+
+Proportion for each species:
+S_plumbea    0.6
+T_aduncus    0.3
+D_delphis    0.1
+
+Species ID: S_plumbea
+
+               ~
+Acoustic Encounter 15:
+
+Number of detections: 4
+Encounter duration: 0:00:03
+Start time: 2021-03-21 16:36:21
+End time: 2021-03-21 16:36:24
+
+Proportion for each species:
+T_aduncus    0.5
+D_delphis    0.5
+
+Species ID: T_aduncus
+
+               ~
+Acoustic Encounter 16:
+
+Number of detections: 129
+Encounter duration: 0:50:57
+Start time: 2021-03-21 18:48:23
+End time: 2021-03-21 19:39:20
+
+Proportion for each species:
+S_plumbea    0.534884
+T_aduncus    0.465116
+
+Species ID: S_plumbea
+
+               ~
+Acoustic Encounter 17:
+
+Number of detections: 2
+Encounter duration: 0:00:01
+Start time: 2021-03-21 20:06:36
+End time: 2021-03-21 20:06:37
+
+Proportion for each species:
+S_plumbea    1.0
+
+Species ID: S_plumbea
+
+               ~
+Acoustic Encounter 18:
+
+Number of detections: 28
+Encounter duration: 0:14:00
+Start time: 2021-03-21 20:36:20
+End time: 2021-03-21 20:50:20
+
+Proportion for each species:
+S_plumbea    0.607143
+T_aduncus    0.392857
+
+Species ID: S_plumbea
+
+               ~
+Acoustic Encounter 19:
+
+Number of detections: 73
+Encounter duration: 0:37:03
+Start time: 2021-03-21 21:16:05
+End time: 2021-03-21 21:53:08
+
+Proportion for each species:
+S_plumbea    0.589041
+T_aduncus    0.410959
+
+Species ID: S_plumbea
+
+               ~
+Acoustic Encounter 20:
+
+Number of detections: 31
+Encounter duration: 0:09:23
+Start time: 2021-03-21 22:26:46
+End time: 2021-03-21 22:36:09
+
+Proportion for each species:
+T_aduncus    0.580645
+S_plumbea    0.387097
+D_delphis    0.032258
+
+Species ID: T_aduncus
+
+               ~
+Acoustic Encounter 21:
+
+Number of detections: 2
+Encounter duration: 0:00:01
+Start time: 2021-03-21 22:51:17
+End time: 2021-03-21 22:51:18
+
+Proportion for each species:
+T_aduncus    0.5
+D_delphis    0.5
+
+Species ID: T_aduncus
+
+               ~

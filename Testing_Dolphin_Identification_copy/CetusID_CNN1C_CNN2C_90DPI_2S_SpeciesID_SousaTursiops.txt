@@ -1,0 +1,70 @@
+Tursiops:
+ ~ Post-Processing ~
+
+Acoustic Encounter 1:
+
+Number of detections: 4
+Encounter duration: 0:04:09
+Start time: 2021-03-21 14:42:01
+End time: 2021-03-21 14:46:10
+
+Proportion for each species:
+T_aduncus    0.75
+S_plumbea    0.25
+
+Species ID: T_aduncus
+
+               ~
+Sousa:
+ ~ Post-Processing ~
+
+Acoustic Encounter 1:
+
+Number of detections: 33
+Encounter duration: 0:38:06
+Start time: 2021-03-21 18:49:29
+End time: 2021-03-21 19:27:35
+
+Proportion for each species:
+S_plumbea    0.909091
+T_aduncus    0.090909
+
+Species ID: S_plumbea
+
+               ~
+TL + customized
+
+Tursiops:
+ ~ Post-Processing ~
+
+Acoustic Encounter 1:
+
+Number of detections: 10
+Encounter duration: 0:03:27
+Start time: 2021-03-21 14:45:00
+End time: 2021-03-21 14:48:27
+
+Proportion for each species:
+T_aduncus    0.8
+S_plumbea    0.2
+
+Species ID: T_aduncus
+
+               ~
+Sousa:
+ ~ Post-Processing ~
+
+Acoustic Encounter 1:
+
+Number of detections: 166
+Encounter duration: 0:45:02
+Start time: 2021-03-21 18:43:01
+End time: 2021-03-21 19:28:03
+
+Proportion for each species:
+S_plumbea    0.873494
+T_aduncus    0.126506
+
+Species ID: S_plumbea
+
+               ~

@@ -1,0 +1,221 @@
+ ~ Post-Processing ~
+
+Acoustic Encounter 1:
+
+Number of detections: 4
+Encounter duration: 0:02:50
+Start time: 2021-03-21 00:28:14
+End time: 2021-03-21 00:31:04
+
+Proportion for each species:
+S_plumbea    1.0
+
+Species ID: S_plumbea
+
+               ~
+Acoustic Encounter 2:
+
+Number of detections: 2
+Encounter duration: 0:00:01
+Start time: 2021-03-21 01:11:11
+End time: 2021-03-21 01:11:12
+
+Proportion for each species:
+D_delphis    1.0
+
+Species ID: D_delphis
+
+               ~
+Acoustic Encounter 3:
+
+Number of detections: 2
+Encounter duration: 0:00:49
+Start time: 2021-03-21 03:22:42
+End time: 2021-03-21 03:23:31
+
+Proportion for each species:
+S_plumbea    1.0
+
+Species ID: S_plumbea
+
+               ~
+Acoustic Encounter 4:
+
+Number of detections: 4
+Encounter duration: 0:00:09
+Start time: 2021-03-21 05:39:05
+End time: 2021-03-21 05:39:14
+
+Proportion for each species:
+D_delphis    1.0
+
+Species ID: D_delphis
+
+               ~
+Acoustic Encounter 5:
+
+Number of detections: 2
+Encounter duration: 0:00:01
+Start time: 2021-03-21 07:00:47
+End time: 2021-03-21 07:00:48
+
+Proportion for each species:
+D_delphis    1.0
+
+Species ID: D_delphis
+
+               ~
+Acoustic Encounter 6:
+
+Number of detections: 2
+Encounter duration: 0:00:01
+Start time: 2021-03-21 07:38:32
+End time: 2021-03-21 07:38:33
+
+Proportion for each species:
+D_delphis    1.0
+
+Species ID: D_delphis
+
+               ~
+Acoustic Encounter 7:
+
+Number of detections: 19
+Encounter duration: 0:00:18
+Start time: 2021-03-21 09:46:51
+End time: 2021-03-21 09:47:09
+
+Proportion for each species:
+D_delphis    0.736842
+S_plumbea    0.263158
+
+Species ID: D_delphis
+
+               ~
+Acoustic Encounter 8:
+
+Number of detections: 6
+Encounter duration: 0:04:13
+Start time: 2021-03-21 12:03:35
+End time: 2021-03-21 12:07:48
+
+Proportion for each species:
+S_plumbea    0.333333
+D_delphis    0.333333
+T_aduncus    0.333333
+
+Species ID: S_plumbea
+
+               ~
+Acoustic Encounter 9:
+
+Number of detections: 12
+Encounter duration: 0:14:17
+Start time: 2021-03-21 14:44:59
+End time: 2021-03-21 14:59:16
+
+Proportion for each species:
+S_plumbea    1.0
+
+Species ID: S_plumbea
+
+               ~
+Acoustic Encounter 10:
+
+Number of detections: 11
+Encounter duration: 0:00:19
+Start time: 2021-03-21 15:32:17
+End time: 2021-03-21 15:32:36
+
+Proportion for each species:
+D_delphis    0.727273
+T_aduncus    0.181818
+S_plumbea    0.090909
+
+Species ID: D_delphis
+
+               ~
+Acoustic Encounter 11:
+
+Number of detections: 4
+Encounter duration: 0:00:27
+Start time: 2021-03-21 16:36:22
+End time: 2021-03-21 16:36:49
+
+Proportion for each species:
+T_aduncus    0.75
+S_plumbea    0.25
+
+Species ID: T_aduncus
+
+               ~
+Acoustic Encounter 12:
+
+Number of detections: 166
+Encounter duration: 0:45:02
+Start time: 2021-03-21 18:43:00
+End time: 2021-03-21 19:28:02
+
+Proportion for each species:
+S_plumbea    0.903614
+D_delphis    0.090361
+T_aduncus    0.006024
+
+Species ID: S_plumbea
+
+               ~
+Acoustic Encounter 13:
+
+Number of detections: 84
+Encounter duration: 0:18:27
+Start time: 2021-03-21 20:34:34
+End time: 2021-03-21 20:53:01
+
+Proportion for each species:
+S_plumbea    0.97619
+D_delphis    0.02381
+
+Species ID: S_plumbea
+
+               ~
+Acoustic Encounter 14:
+
+Number of detections: 218
+Encounter duration: 0:57:53
+Start time: 2021-03-21 21:10:39
+End time: 2021-03-21 22:08:32
+
+Proportion for each species:
+S_plumbea    0.995413
+D_delphis    0.004587
+
+Species ID: S_plumbea
+
+               ~
+Acoustic Encounter 15:
+
+Number of detections: 68
+Encounter duration: 0:11:23
+Start time: 2021-03-21 22:24:46
+End time: 2021-03-21 22:36:09
+
+Proportion for each species:
+S_plumbea    0.867647
+D_delphis    0.132353
+
+Species ID: S_plumbea
+
+               ~
+Acoustic Encounter 16:
+
+Number of detections: 5
+Encounter duration: 0:11:26
+Start time: 2021-03-21 23:25:57
+End time: 2021-03-21 23:37:23
+
+Proportion for each species:
+S_plumbea    1.0
+
+Species ID: S_plumbea
+
+               ~

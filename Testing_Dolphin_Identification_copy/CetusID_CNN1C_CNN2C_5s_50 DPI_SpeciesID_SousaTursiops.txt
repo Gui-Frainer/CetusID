@@ -1,0 +1,34 @@
+Tursiops:
+ ~ Post-Processing ~
+
+Acoustic Encounter 1:
+
+Number of detections: 9
+Encounter duration: 0:05:35
+Start time: 2021-03-21 14:42:48
+End time: 2021-03-21 14:48:23
+
+Proportion for each species:
+T_aduncus    1.0
+
+Species ID: T_aduncus
+
+               ~
+
+Sousa:
+ ~ Post-Processing ~
+
+Acoustic Encounter 1:
+
+Number of detections: 96
+Encounter duration: 0:42:18
+Start time: 2021-03-21 18:45:17
+End time: 2021-03-21 19:27:35
+
+Proportion for each species:
+T_aduncus    1.0
+
+Species ID: T_aduncus
+
+               ~
+

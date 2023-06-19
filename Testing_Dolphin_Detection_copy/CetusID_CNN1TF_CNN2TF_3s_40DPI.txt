@@ -1,0 +1,182 @@
+
+ ~ Post-Processing ~
+
+Acoustic Encounter 1:
+
+Number of detections: 6
+Encounter duration: 0:00:10
+Start time: 2021-03-21 05:39:04
+End time: 2021-03-21 05:39:14
+
+Proportion for each species:
+T_aduncus    0.666667
+O_orca       0.333333
+
+Species ID: T_aduncus
+
+               ~
+Acoustic Encounter 2:
+
+Number of detections: 20
+Encounter duration: 0:00:19
+Start time: 2021-03-21 09:46:50
+End time: 2021-03-21 09:47:09
+
+Proportion for each species:
+T_aduncus    0.9
+O_orca       0.1
+
+Species ID: T_aduncus
+
+               ~
+Acoustic Encounter 3:
+
+Number of detections: 10
+Encounter duration: 0:16:13
+Start time: 2021-03-21 11:52:18
+End time: 2021-03-21 12:08:31
+
+Proportion for each species:
+D_delphis    0.7
+T_aduncus    0.3
+
+Species ID: D_delphis
+
+               ~
+Acoustic Encounter 4:
+
+Number of detections: 17
+Encounter duration: 0:41:02
+Start time: 2021-03-21 13:36:27
+End time: 2021-03-21 14:17:29
+
+Proportion for each species:
+T_aduncus    0.529412
+D_delphis    0.411765
+O_orca       0.058824
+
+Species ID: T_aduncus
+
+               ~
+Acoustic Encounter 5:
+
+Number of detections: 38
+Encounter duration: 0:23:02
+Start time: 2021-03-21 14:36:14
+End time: 2021-03-21 14:59:16
+
+Proportion for each species:
+D_delphis    0.631579
+T_aduncus    0.289474
+O_orca       0.078947
+
+Species ID: D_delphis
+
+               ~
+Acoustic Encounter 6:
+
+Number of detections: 41
+Encounter duration: 0:24:48
+Start time: 2021-03-21 15:24:57
+End time: 2021-03-21 15:49:45
+
+Proportion for each species:
+T_aduncus    0.512195
+D_delphis    0.341463
+O_orca       0.146341
+
+Species ID: T_aduncus
+
+               ~
+Acoustic Encounter 7:
+
+Number of detections: 16
+Encounter duration: 0:01:04
+Start time: 2021-03-21 16:36:21
+End time: 2021-03-21 16:37:25
+
+Proportion for each species:
+T_aduncus    0.5000
+D_delphis    0.4375
+O_orca       0.0625
+
+Species ID: T_aduncus
+
+               ~
+Acoustic Encounter 8:
+
+Number of detections: 260
+Encounter duration: 1:03:54
+Start time: 2021-03-21 18:42:59
+End time: 2021-03-21 19:46:53
+
+Proportion for each species:
+D_delphis    0.680769
+T_aduncus    0.261538
+O_orca       0.057692
+
+Species ID: D_delphis
+
+               ~
+Acoustic Encounter 9:
+
+Number of detections: 125
+Encounter duration: 0:20:05
+Start time: 2021-03-21 20:32:56
+End time: 2021-03-21 20:53:01
+
+Proportion for each species:
+D_delphis    0.736
+T_aduncus    0.216
+O_orca       0.048
+
+Species ID: D_delphis
+
+               ~
+Acoustic Encounter 10:
+
+Number of detections: 316
+Encounter duration: 0:56:20
+Start time: 2021-03-21 21:12:47
+End time: 2021-03-21 22:09:07
+
+Proportion for each species:
+D_delphis    0.772152
+T_aduncus    0.189873
+O_orca       0.037975
+
+Species ID: D_delphis
+
+               ~
+Acoustic Encounter 11:
+
+Number of detections: 83
+Encounter duration: 0:11:24
+Start time: 2021-03-21 22:24:45
+End time: 2021-03-21 22:36:09
+
+Proportion for each species:
+D_delphis    0.734940
+T_aduncus    0.192771
+O_orca       0.072289
+
+Species ID: D_delphis
+
+               ~
+Acoustic Encounter 12:
+
+Number of detections: 12
+Encounter duration: 0:26:11
+Start time: 2021-03-21 23:11:35
+End time: 2021-03-21 23:37:46
+
+Proportion for each species:
+D_delphis    0.666667
+T_aduncus    0.333333
+
+Species ID: D_delphis
+
+               ~
+
+Reading done.
+Done

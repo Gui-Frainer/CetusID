@@ -1,0 +1,130 @@
+~ Post-Processing ~
+
+Acoustic Encounter 1:
+
+Number of detections: 17
+Encounter duration: 0:05:17
+Start time: 2021-03-21 00:58:22.938328
+End time: 2021-03-21 01:03:39.952157
+
+               ~                    
+Acoustic Encounter 2:
+
+Number of detections: 72
+Encounter duration: 1:04:27
+Start time: 2021-03-21 03:17:31.935836
+End time: 2021-03-21 04:21:59.049616
+
+               ~                    
+Acoustic Encounter 3:
+
+Number of detections: 122
+Encounter duration: 1:55:45
+Start time: 2021-03-21 04:53:49.078051
+End time: 2021-03-21 06:49:34.904194
+
+               ~                    
+Acoustic Encounter 4:
+
+Number of detections: 13
+Encounter duration: 0:15:09
+Start time: 2021-03-21 07:24:18.985777
+End time: 2021-03-21 07:39:28.855199
+
+               ~                    
+Acoustic Encounter 5:
+
+Number of detections: 15
+Encounter duration: 0:10:40
+Start time: 2021-03-21 12:11:50.374341
+End time: 2021-03-21 12:22:31.117159
+
+               ~                    
+Acoustic Encounter 6:
+
+Number of detections: 55
+Encounter duration: 0:28:56
+Start time: 2021-03-21 12:37:42.023821
+End time: 2021-03-21 13:06:38.879766
+
+               ~                    
+Acoustic Encounter 7:
+
+Number of detections: 126
+Encounter duration: 1:00:27
+Start time: 2021-03-21 13:22:59.004893
+End time: 2021-03-21 14:23:26.628424
+
+               ~                    
+Acoustic Encounter 8:
+
+Number of detections: 13
+Encounter duration: 0:39:55
+Start time: 2021-03-21 14:23:35.936122
+End time: 2021-03-21 15:03:31.143575
+
+               ~                    
+Acoustic Encounter 9:
+
+Number of detections: 55
+Encounter duration: 0:44:22
+Start time: 2021-03-21 18:46:23.912812
+End time: 2021-03-21 19:30:46.765953
+
+               ~                    
+Acoustic Encounter 10:
+
+Number of detections: 1
+Encounter duration: 0:00:09
+Start time: 2021-03-21 20:15:33.222835
+End time: 2021-03-21 20:15:42.360361
+
+               ~                    
+Acoustic Encounter 11:
+
+Number of detections: 5
+Encounter duration: 0:13:56
+Start time: 2021-03-21 20:36:44.460596
+End time: 2021-03-21 20:50:40.901156
+
+               ~                    
+Acoustic Encounter 12:
+
+Number of detections: 8
+Encounter duration: 0:32:52
+Start time: 2021-03-21 21:16:07.103957
+End time: 2021-03-21 21:48:59.425626
+
+               ~                    
+Acoustic Encounter 13:
+
+Number of detections: 3
+Encounter duration: 0:05:24
+Start time: 2021-03-21 22:30:54.162231
+End time: 2021-03-21 22:36:18.208851
+
+               ~                    
+Acoustic Encounter 14:
+
+Number of detections: 2
+Encounter duration: 0:00:26
+Start time: 2021-03-21 22:52:18.849871
+End time: 2021-03-21 22:52:44.870850
+
+               ~                    
+Acoustic Encounter 15:
+
+Number of detections: 1
+Encounter duration: 0:00:20
+Start time: 2021-03-21 23:26:16.257801
+End time: 2021-03-21 23:26:36.607445
+
+               ~                    
+Acoustic Encounter 16:
+
+Number of detections: 1
+Encounter duration: 0:00:00
+Start time: 2021-03-21 23:57:45.979014
+End time: 2021-03-21 23:57:46.724934
+
+               ~ 

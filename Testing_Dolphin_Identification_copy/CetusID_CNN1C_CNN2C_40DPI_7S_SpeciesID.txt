@@ -1,0 +1,87 @@
+Sousa:
+ ~ Post-Processing ~
+
+Acoustic Encounter 1:
+
+Number of detections: 6
+Encounter duration: 0:05:05
+Start time: 2021-03-21 18:45:17
+End time: 2021-03-21 18:50:22
+
+Proportion for each species:
+T_aduncus    1.0
+
+Species ID: T_aduncus
+
+               ~
+Acoustic Encounter 2:
+
+Number of detections: 38
+Encounter duration: 0:22:16
+Start time: 2021-03-21 19:05:45
+End time: 2021-03-21 19:28:01
+
+Proportion for each species:
+T_aduncus    1.0
+
+Species ID: T_aduncus
+
+               ~
+
+Tursiops:
+ ~ Post-Processing ~
+
+Acoustic Encounter 1:
+
+Number of detections: 4
+Encounter duration: 0:07:38
+Start time: 2021-03-21 14:40:45
+End time: 2021-03-21 14:48:23
+
+Proportion for each species:
+T_aduncus    1.0
+
+Species ID: T_aduncus
+
+               ~
+
+Delphinus:
+ ~ Post-Processing ~
+
+Acoustic Encounter 1:
+
+Number of detections: 594
+Encounter duration: 0:09:53
+Start time: 2021-05-08 13:08:06
+End time: 2021-05-08 13:17:59
+
+Proportion for each species:
+D_delphis    0.764310
+T_aduncus    0.121212
+S_plumbea    0.104377
+O_orca       0.010101
+
+Species ID: D_delphis
+
+               ~
+
+Orca:
+
+ ~ Post-Processing ~
+
+Acoustic Encounter 1:
+
+Number of detections: 227
+Encounter duration: 0:13:07
+Start time: 2021-01-31 17:01:44
+End time: 2021-01-31 17:14:51
+
+Proportion for each species:
+S_plumbea    0.832599
+T_aduncus    0.154185
+D_delphis    0.008811
+O_orca       0.004405
+
+Species ID: S_plumbea
+
+               ~

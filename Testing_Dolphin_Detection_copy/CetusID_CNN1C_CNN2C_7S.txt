@@ -1,0 +1,219 @@
+ ~ Post-Processing ~
+
+Acoustic Encounter 1:
+
+Number of detections: 7
+Encounter duration: 0:00:06
+Start time: 2021-03-21 01:11:06
+End time: 2021-03-21 01:11:12
+
+Proportion for each species:
+S_plumbea    1.0
+
+Species ID: S_plumbea
+
+               ~
+Acoustic Encounter 2:
+
+Number of detections: 5
+Encounter duration: 0:00:06
+Start time: 2021-03-21 05:17:31
+End time: 2021-03-21 05:17:37
+
+Proportion for each species:
+S_plumbea    1.0
+
+Species ID: S_plumbea
+
+               ~
+Acoustic Encounter 3:
+
+Number of detections: 14
+Encounter duration: 0:00:14
+Start time: 2021-03-21 05:39:00
+End time: 2021-03-21 05:39:14
+
+Proportion for each species:
+S_plumbea    0.857143
+T_aduncus    0.142857
+
+Species ID: S_plumbea
+
+               ~
+Acoustic Encounter 4:
+
+Number of detections: 13
+Encounter duration: 0:04:51
+Start time: 2021-03-21 07:00:42
+End time: 2021-03-21 07:05:33
+
+Proportion for each species:
+S_plumbea    1.0
+
+Species ID: S_plumbea
+
+               ~
+Acoustic Encounter 5:
+
+Number of detections: 7
+Encounter duration: 0:00:06
+Start time: 2021-03-21 07:38:27
+End time: 2021-03-21 07:38:33
+
+Proportion for each species:
+S_plumbea    1.0
+
+Species ID: S_plumbea
+
+               ~
+Acoustic Encounter 6:
+
+Number of detections: 24
+Encounter duration: 0:00:23
+Start time: 2021-03-21 09:46:46
+End time: 2021-03-21 09:47:09
+
+Proportion for each species:
+S_plumbea    0.833333
+T_aduncus    0.166667
+
+Species ID: S_plumbea
+
+               ~
+Acoustic Encounter 7:
+
+Number of detections: 14
+Encounter duration: 0:00:22
+Start time: 2021-03-21 12:08:08
+End time: 2021-03-21 12:08:30
+
+Proportion for each species:
+T_aduncus    0.642857
+S_plumbea    0.357143
+
+Species ID: T_aduncus
+
+               ~
+Acoustic Encounter 8:
+
+Number of detections: 4
+Encounter duration: 0:07:38
+Start time: 2021-03-21 14:40:44
+End time: 2021-03-21 14:48:22
+
+Proportion for each species:
+T_aduncus    0.75
+S_plumbea    0.25
+
+Species ID: T_aduncus
+
+               ~
+Acoustic Encounter 9:
+
+Number of detections: 36
+Encounter duration: 0:17:29
+Start time: 2021-03-21 15:32:13
+End time: 2021-03-21 15:49:42
+
+Proportion for each species:
+S_plumbea    0.583333
+T_aduncus    0.416667
+
+Species ID: S_plumbea
+
+               ~
+Acoustic Encounter 10:
+
+Number of detections: 12
+Encounter duration: 0:00:29
+Start time: 2021-03-21 16:36:13
+End time: 2021-03-21 16:36:42
+
+Proportion for each species:
+T_aduncus    1.0
+
+Species ID: T_aduncus
+
+               ~
+Acoustic Encounter 11:
+
+Number of detections: 6
+Encounter duration: 0:05:05
+Start time: 2021-03-21 18:45:16
+End time: 2021-03-21 18:50:21
+
+Proportion for each species:
+S_plumbea    0.666667
+T_aduncus    0.333333
+
+Species ID: S_plumbea
+
+               ~
+Acoustic Encounter 12:
+
+Number of detections: 39
+Encounter duration: 0:33:33
+Start time: 2021-03-21 19:05:44
+End time: 2021-03-21 19:39:17
+
+Proportion for each species:
+T_aduncus    0.692308
+S_plumbea    0.307692
+
+Species ID: T_aduncus
+
+               ~
+Acoustic Encounter 13:
+
+Number of detections: 2
+Encounter duration: 0:00:01
+Start time: 2021-03-21 20:47:01
+End time: 2021-03-21 20:47:02
+
+Proportion for each species:
+T_aduncus    1.0
+
+Species ID: T_aduncus
+
+               ~
+Acoustic Encounter 14:
+
+Number of detections: 16
+Encounter duration: 0:22:52
+Start time: 2021-03-21 21:29:23
+End time: 2021-03-21 21:52:15
+
+Proportion for each species:
+T_aduncus    0.9375
+S_plumbea    0.0625
+
+Species ID: T_aduncus
+
+               ~
+Acoustic Encounter 15:
+
+Number of detections: 11
+Encounter duration: 0:05:30
+Start time: 2021-03-21 22:30:38
+End time: 2021-03-21 22:36:08
+
+Proportion for each species:
+T_aduncus    0.545455
+S_plumbea    0.454545
+
+Species ID: T_aduncus
+
+               ~
+Acoustic Encounter 16:
+
+Number of detections: 2
+Encounter duration: 0:00:03
+Start time: 2021-03-21 23:41:16
+End time: 2021-03-21 23:41:19
+
+Proportion for each species:
+S_plumbea    1.0
+
+Species ID: S_plumbea
+
+               ~
