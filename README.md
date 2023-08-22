@@ -26,5 +26,5 @@ The best performing models for the detection of dolphin presence and species ide
 
 The best detection model was built using a customised architecture and achieved an accuracy of 84.4% for all dolphin vocalizations on the test set, and 89.5% for sounds with signal-to-noise ratio higher than 1. The best identification model was also built using the customised architecture and correctly identified *S. plumbea* (96.9%), *T. aduncus* (100%), and *D. delphis* (78%) (Fig. 3) encounters in the testing dataset. The developed framework assists in finding suitable CNN hyper-parameters for classification tasks on complex dolphin sounds and can be easily adapted for other species or populations.
 
-![Confusion matrix](Confusion matrix_cut.png)
+![Confusion matrix](Confusion matrix_cut.jpg)
 **Fig 3** Comparison of confusion matrices for a four-class (left) and a three-class (right) species identification model applied to the testing, unseen dataset. 
