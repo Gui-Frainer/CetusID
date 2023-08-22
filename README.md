@@ -20,7 +20,7 @@ A subset of the acoustic recordings used for the demonstration notebook, includi
 ## Code pipeline
 ![pipeline](code_pipeline.jpg)
 
-## Executing code on Google Colab
+## Demo on Google Colab
 The notebook accompanying the paper can be accessed [here](https://colab.research.google.com/drive/1vWCtQl0jNjIpT-nIo2ZNsy0FfdY8ktLK?usp=sharing).
 
 ## Findings
