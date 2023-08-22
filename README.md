@@ -3,7 +3,7 @@
 ## Purpose of the project
 We assessed the applicability of Convolutional Neural Networks (CNNs) for dolphin monitoring in long-term recordings using their complete vocal repertoire along with a model prediction and post-processing approach for automated taxonomic identification. The proposed framework designed here combining biological knowledge on sound production in dolphins and innovative machine learning tools may enhance the use of passive acoustic monitoring for target species in highly diverse areas. The algorithm was designed to easily fine-tune classification tasks of biological sounds and may increase the use of CNNs through a near-friendly, Linux interface. The open-source application presented here advances the research in improving the detection and identification of dolphin vocalizations in audio recordings and will be valuable for monitoring the endangered Indian Ocean humpback dolphin (*Sousa plumbea*) in South African waters.
 
-![CetusID](CetusID/CetusID_front_page.jpg)
+![CetusID](CetusID_front_page.jpg)
 
 ## Authors
 Guilherme Frainer* [1, 2], Emmanuel Dufourq [3, 4, 5], Jack Fearey [1, 2], Sasha Dines [2, 6], Rachel Probert [2,7], Simon Elwen [2, 6], Tess Gridley [2, 6]
