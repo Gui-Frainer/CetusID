@@ -21,7 +21,7 @@ A subset of the acoustic recordings used for the demonstration notebook, includi
 ![pipeline](code_pipeline.jpg)
 
 ## Executing code on Google Colab
-The notebook accompanying the paper can be accessed [here](['https://colab.research.google.com/drive/1vWCtQl0jNjIpT-nIo2ZNsy0FfdY8ktLK?usp=sharing']).
+The notebook accompanying the paper can be accessed ![here](['https://colab.research.google.com/drive/1vWCtQl0jNjIpT-nIo2ZNsy0FfdY8ktLK?usp=sharing']).
 
 ## Findings
 The best performing models for the detection of dolphin presence and species identification used segments (spectral windows) of two second lengths (Fig. 1) and were trained using images with 70 and 90 dpi (Fig. 2), respectively. 
