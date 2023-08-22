@@ -19,8 +19,10 @@ A subset of the acoustic recordings used for the demonstration notebook, includi
 
 ## Findings
 The best performing models for the detection of dolphin presence and species identification used segments (spectral windows) of two second lengths (Fig. 1) and were trained using images with 70 and 90 dpi (Fig. 2), respectively. 
+
 ![Figure2](Figure 2.jpg)
 **Fig 1** Examples of spectrograms showing calls of all four species studied here built with distinct window sizes (two-, three-, five- and seven-seconds length).
+
 ![Figure3](Figure 5.jpg)
 **Fig 2** Indian Ocean humpback dolphin (Sousa plumbea) vocalizations captured in a single two second window length segment and converted to a linear spectrogram in images with distinct dots per inch (dpi). 
 
