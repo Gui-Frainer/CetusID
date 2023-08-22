@@ -17,6 +17,9 @@ Guilherme Frainer* [1, 2], Emmanuel Dufourq [3, 4, 5], Jack Fearey [1, 2], Sasha
 ## Open source data
 A subset of the acoustic recordings used for the demonstration notebook, including labels for the acoustic data used for training, as well as the testing dataset with confirmed species identification has been stored in Zenodo and can be accessed at DOI:https://doi.org/10.5281/zenodo.8074949.
 
+## Executing code on Google Colab
+The notebook accompanying the paper can be accessed [here]([https://www.google.com](https://colab.research.google.com/drive/1vWCtQl0jNjIpT-nIo2ZNsy0FfdY8ktLK?usp=sharing)).
+
 ## Findings
 The best performing models for the detection of dolphin presence and species identification used segments (spectral windows) of two second lengths (Fig. 1) and were trained using images with 70 and 90 dpi (Fig. 2), respectively. 
 
