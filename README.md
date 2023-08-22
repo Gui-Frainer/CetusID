@@ -21,15 +21,12 @@ A subset of the acoustic recordings used for the demonstration notebook, includi
 The best performing models for the detection of dolphin presence and species identification used segments (spectral windows) of two second lengths (Fig. 1) and were trained using images with 70 and 90 dpi (Fig. 2), respectively. 
 
 ![Figure2](Figure2.jpg)
-
 **Fig 1** Examples of spectrograms showing calls of all four species studied here built with distinct window sizes (two-, three-, five- and seven-seconds length).
 
 ![Figure3](Figure5.jpg)
-
 **Fig 2** Indian Ocean humpback dolphin (Sousa plumbea) vocalizations captured in a single two second window length segment and converted to a linear spectrogram in images with distinct dots per inch (dpi). 
 
 The best detection model was built using a customised architecture and achieved an accuracy of 84.4% for all dolphin vocalizations on the test set, and 89.5% for sounds with signal-to-noise ratio higher than 1. The best identification model was also built using the customised architecture and correctly identified *S. plumbea* (96.9%), *T. aduncus* (100%), and *D. delphis* (78%) (Fig. 3) encounters in the testing dataset. The developed framework assists in finding suitable CNN hyper-parameters for classification tasks on complex dolphin sounds and can be easily adapted for other species or populations.
 
 ![Confusion matrix](Confusionmatrix_cut.png)
-
 **Fig 3** Comparison of confusion matrices for a four-class (left) and a three-class (right) species identification model applied to the testing, unseen dataset. 
