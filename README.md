@@ -20,7 +20,7 @@ Guilherme Frainer* [1, 2], Emmanuel Dufourq [3, 4, 5], Jack Fearey [1, 2], Sasha
 A subset of the acoustic recordings used for the demonstration notebook, including labels for the acoustic data used for training, as well as the testing dataset with confirmed species identification has been stored in Zenodo and can be accessed at DOI:https://doi.org/10.5281/zenodo.8074949.
 
 ## Code pipeline
-![pipeline](code_pipeline.jpg)
+![pipeline](code_pipeline1.jpg)
 
 ## Demo on Google Colab
 The notebook accompanying the paper can be accessed [here](https://colab.research.google.com/drive/1vWCtQl0jNjIpT-nIo2ZNsy0FfdY8ktLK?usp=sharing).
